@@ -28,4 +28,4 @@ customize(TouchableOpacity, {
 
 ### License 
 
-This library is published under the MIT license. The full license can be found in the `license.md` file.
+This library is published under the MIT license. The full license can be found in this repo.
