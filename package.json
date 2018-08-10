@@ -3,7 +3,7 @@
   "description": "Function to override the default props of any react-native component",
   "repository": "https://github.com/devizerio/react-native-default-props",
   "author": "jensen@devizer.io",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "index.js",
   "license": "MIT"
 }
