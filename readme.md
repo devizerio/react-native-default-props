@@ -25,3 +25,7 @@ customize(TouchableOpacity, {
   activeOpacity: 0.8,
 });
 ```
+
+### License 
+
+This library is published under the MIT license. The full license can be found in the `license.md` file.
